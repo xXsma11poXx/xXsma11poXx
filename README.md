@@ -1,6 +1,6 @@
 Hi my handle is @xXsma11poXx
-I'm a current engineering student who is interested in cyber security, data structures, machine learning, web dev, and AI
-I'm currently learning python and plan on learning C++, Java, or Javascript
+I'm a current engineering student who is interested in cyber security, data structures, machine learning, web dev, and AI.
+I'm currently learning python and plan on learning C++, Java, and Javascript.
 I’m looking to collaborate on just about anything.  I am here to learn and help other learn.
 How to reach me ...<still figuring that out>
 
